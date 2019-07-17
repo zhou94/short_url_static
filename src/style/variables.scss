@@ -1,0 +1,38 @@
+// 颜色
+$theme-color:#00c3bd;
+$normal-color:#8b8b8b;
+$border-color:#fbf8f8;
+$hd: 1px; // 基本单位
+// font-size
+$normal-size: 12px;
+
+$toast-zindex: 999;
+
+// toast
+$toast-fill: rgba(58, 58, 58, 0.9); // toast, activity-indicator 的背景颜色
+
+// 圆角
+// ---
+$radius-xs: 2 * $hd;
+$radius-sm: 3 * $hd;
+$radius-md: 5 * $hd;
+$radius-lg: 7 * $hd;
+$radius-circle: 50%;
+
+$color-text-base-inverse: #fff; 
+
+//行高
+$line-height-paragraph: 1.5; 
+
+
+// 垂直间距
+$v-spacing-xs: 3 * $hd;
+$v-spacing-sm: 6 * $hd;
+$v-spacing-md: 9 * $hd;
+$v-spacing-lg: 15 * $hd;
+$v-spacing-xl: 21 * $hd;
+
+// 水平间距
+$h-spacing-sm: 5 * $hd;
+$h-spacing-md: 8 * $hd;
+$h-spacing-lg: 15 * $hd;
